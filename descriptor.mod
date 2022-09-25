@@ -1,0 +1,15 @@
+name="The Combine / Universal Union [FIXED & REUPLOAD]"
+path="F:\SteamLibrary\steamapps\workshop\content\281990\UUTesting"
+tags={
+	"Fixes"
+	"Species"
+	"Utilities"
+	"half-life"
+	"half-life 2"
+	"Combine"
+	"Union"
+	"Universal Union"
+}
+picture="unilogo.jpg"
+supported_version="3.4*"
+remote_file_id="923177827"
